@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$SOLHUNT | Join the Hunt</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">$SOLHUNT</div>
+        <nav>
+            <a href="#">About</a>
+            <a href="#">Tokenomics</a>
+            <a href="#" class="btn-small">Buy Now</a>
+        </nav>
+    </header>
+
+    <main class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="image-wrapper">
+                    <img src="image.png" alt="Solhunt King" class="main-img">
+                </div>
+                
+                <div class="text-block">
+                    <h1>BECOME PART OF THE STORY</h1>
+                    <p class="manifesto">
+                        This asset is a chance to become part of something new and greater than just making money. 
+                        What we are doing is a story that will last as long as you yourself decide not to end it.
+                    </p>
+                    <p class="manifesto highlight">
+                        So let us create something grand and memorable together. Join us and become one of the first to make this choice, and you will see the results.
+                    </p>
+                    <div class="cta-group">
+                        <a href="#" class="btn-main">JOIN THE HUNT</a>
+                        <a href="#" class="btn-secondary">CHART</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Good luck to everyone, and see you again. &copy; 2025 $SOLHUNT</p>
+    </footer>
+
+</body>
+</html>
